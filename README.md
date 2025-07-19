@@ -17,9 +17,18 @@
 ![2-7](https://github.com/user-attachments/assets/0138f021-713e-466a-aba2-3285f051b1cd)
 
 ### 3 Подключить группу к сетевому балансировщику:
-![3-1](https://github.com/user-attachments/assets/2a468182-848a-4bc9-9382-d990ace75d41)
-![3-2](https://github.com/user-attachments/assets/88b5f57d-dd01-4fe2-90e0-7475cd03492e)
-![3-3](https://github.com/user-attachments/assets/04085004-d7dc-4350-a96e-1b92374cbb40)
-![3-4](https://github.com/user-attachments/assets/1ec0c4f5-f8af-43c9-bd0d-21db49a7822e)
-![3-5](https://github.com/user-attachments/assets/cda2a537-48ff-4dc0-a2ba-ae02f0a9458b)
-![3-6](https://github.com/user-attachments/assets/1c65e135-a252-4591-b1f7-8d1bd2d1f4e5)
+![3-0](https://github.com/user-attachments/assets/594f66c0-018e-4e41-afdd-f381bce06069)
+![3-1](https://github.com/user-attachments/assets/1ee20aac-92d8-45e8-aa0b-8809653f621e)
+![3-2](https://github.com/user-attachments/assets/afcaeee2-f813-414d-af67-ccccacd749f3)
+![3-3](https://github.com/user-attachments/assets/6dc3f5b7-9f00-4892-9707-ba0b3df2ccea)
+![3-4](https://github.com/user-attachments/assets/20addd52-ca5e-4a05-ab6f-53454bc9714d)
+![3-5](https://github.com/user-attachments/assets/3ca0b862-b402-4469-8c1d-3d9d748337af)
+![3-6](https://github.com/user-attachments/assets/3b4268e5-f787-4045-b611-ffb8a7a978f3)
+
+### 4 (дополнительно)* Создать Application Load Balancer с использованием Instance group и проверкой состояния:
+![4-1](https://github.com/user-attachments/assets/bd786a2b-4096-4ece-a2cf-0de5bbf87ba4)
+![4-2](https://github.com/user-attachments/assets/a2962db3-2781-4c07-9980-2a3ed9a3cce8)
+![4-3](https://github.com/user-attachments/assets/b5c13a1b-b514-4cc2-9b1e-3bab88b7b641)
+![4-4](https://github.com/user-attachments/assets/8ffbaa86-d267-4583-9b78-a848de0fef4c)
+![4-5](https://github.com/user-attachments/assets/5ac3c0af-4c99-4fd1-b895-ac29adb3c1c6)
+![4-6](https://github.com/user-attachments/assets/1df12032-9826-49cf-bb96-49df9306c901)
